@@ -1,84 +1,969 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732476697812 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732566539356 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476700891 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566542421 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476704391 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566545501 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476707452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566548571 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476710508 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566551671 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476713570 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566554737 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476716634 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566557803 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476719727 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566560934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476722883 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566564036 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476726000 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566567119 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476729075 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566570345 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476732147 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566573400 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476735244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566576473 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476738301 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566579553 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476741359 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566582707 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476744423 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566585774 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732476747491 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732566588861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566591931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566595004 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566598064 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566601152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566604227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566607326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566610489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566613557 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566616646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566619866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566622944 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566626029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566629100 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566632217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566635284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566638370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566641608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566644686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566647769 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566650860 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566653931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566657028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566660105 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566663190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566666320 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566669392 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566672464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566675528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566678600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566681665 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566684744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566687812 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566690876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566693997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566697066 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566700149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566703248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566706339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566709407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566712489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566715580 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566718715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566721805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566724955 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566728040 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566731109 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566734191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566737267 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566740352 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566743446 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566746507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566749568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566752647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566755750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566758852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566761914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566765256 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566768314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566771380 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566774440 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566777505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566780565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566783627 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566786707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566789777 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566792861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566795921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566798979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566802232 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566805311 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566808376 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566811441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566814512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566817608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566820668 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566823742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566826820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566829888 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566832969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566836156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566839253 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566842321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566845410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566848470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566851541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566854610 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566857680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566860770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566863856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566867055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566870145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566873216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566876304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566879366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566882443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566885506 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566888576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566891677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566894744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566897819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566900965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566904037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566907109 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566910173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566913293 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566916357 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566919545 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566922605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566925708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566928793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566931861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566935007 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566938078 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566941228 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566944299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566947362 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566950428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566953519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566956592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566959819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566962899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566965967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566969044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566972150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566975211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566978281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566981343 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566984433 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566987495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566990590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566993649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566996725 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732566999786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567002861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567006341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567009408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567012496 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567015575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567018657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567021723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567024794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567027983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567031065 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567034139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567037242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567040310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567043371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567046485 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567049548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567052656 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567055723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567058811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567061902 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567064972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567068057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567071117 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567074198 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567077381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567080451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567083568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567086637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567089708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567092765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567095861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567098938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567101998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567105071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567108142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567111209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567114504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567117583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567120661 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567123723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567126783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567130019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567133156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+average-joke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732567136219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
