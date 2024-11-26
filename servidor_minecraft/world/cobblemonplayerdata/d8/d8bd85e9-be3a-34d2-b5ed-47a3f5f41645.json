@@ -1,0 +1,32 @@
+{
+  "uuid": "d8bd85e9-be3a-34d2-b5ed-47a3f5f41645",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "a1764841-d2a1-49c3-8ccd-289036bd5929",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 4,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "rock": 1,
+      "water": 1,
+      "normal": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:grimer": 2,
+      "cobblemon:patrat": 1,
+      "cobblemon:wooloo": 1
+    },
+    "aspectsCollected": {}
+  }
+}
