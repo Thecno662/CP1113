@@ -900,3 +900,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Nov2024 21:34:59.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAMITA joined the game
 [26Nov2024 21:37:17.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAMITA lost connection: Disconnected
 [26Nov2024 21:37:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAMITA left the game
+[26Nov2024 21:55:11.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.142.99.151:47331] logged in with entity id 566 at (24.513107969597957, 64.0, 42.45665453053982)
+[26Nov2024 21:55:11.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
