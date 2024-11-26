@@ -324,6 +324,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-26 21:59:18 +0000",
       "cooked_mutton": "2024-11-25 21:30:26 +0000",
       "baked_potato": "2024-11-24 21:37:17 +0000",
       "porkchop": "2024-11-25 21:12:08 +0000",
@@ -2142,6 +2143,12 @@
       "has_blue_apricorn": "2024-11-25 21:30:41 +0000"
     },
     "done": false
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2024-11-26 22:12:22 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
     "totalBattleVictoryCount": 4,
@@ -20,7 +20,7 @@
     "totalTypeCaptureCounts": {
       "rock": 1,
       "water": 1,
-      "normal": 1
+      "normal": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:grimer": 2,

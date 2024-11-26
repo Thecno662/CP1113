@@ -248,6 +248,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-11-26 22:14:42 +0000",
       "apple": "2024-11-25 20:42:25 +0000",
       "potato": "2024-11-25 20:46:53 +0000",
       "bread": "2024-11-24 20:35:48 +0000",
@@ -1082,6 +1083,7 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "slate_ball": "2024-11-25 20:57:54 +0000",
+      "poke_ball": "2024-11-26 22:17:31 +0000",
       "premier_ball": "2024-11-24 22:00:58 +0000",
       "azure_ball": "2024-11-25 20:57:48 +0000",
       "citrine_ball": "2024-11-24 21:18:53 +0000"
@@ -1093,6 +1095,7 @@
       "azure_ball": "2024-11-25 20:57:48 +0000",
       "ultra_ball": "2024-11-24 21:31:34 +0000",
       "slate_ball": "2024-11-25 20:57:54 +0000",
+      "poke_ball": "2024-11-26 22:17:31 +0000",
       "citrine_ball": "2024-11-24 21:18:53 +0000",
       "premier_ball": "2024-11-24 22:00:58 +0000"
     },
@@ -1515,27 +1518,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_leather": "2024-11-25 21:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-11-25 21:22:32 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2024-11-25 20:48:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2024-11-25 20:49:51 +0000"
+      "has_carrot": "2024-11-25 20:43:15 +0000"
     },
     "done": true
   },
@@ -1545,53 +1530,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-11-25 20:43:52 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/dream_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2024-11-25 20:48:57 +0000",
-      "has_red_apricorn": "2024-11-25 21:38:52 +0000",
-      "has_pink_apricorn": "2024-11-25 21:19:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2024-11-25 20:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-11-25 20:44:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-25 20:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_black_wool": "2024-11-25 20:54:07 +0000"
+      "has_potato": "2024-11-25 20:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_golden_helmet": "2024-11-25 20:46:36 +0000"
+      "wheat": "2024-11-25 20:43:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_leather": "2024-11-25 21:22:32 +0000"
+      "has_book": "2024-11-25 20:43:52 +0000"
     },
     "done": true
   },
@@ -1607,21 +1566,96 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-11-25 20:54:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-25 20:43:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_leather": "2024-11-25 21:22:32 +0000"
+      "has_white_terracotta": "2024-11-25 20:44:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/protector": {
+    "criteria": {
+      "has_terracotta": "2024-11-25 20:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-11-25 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-11-25 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-11-25 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-11-25 20:48:57 +0000",
+      "has_red_apricorn": "2024-11-25 21:38:52 +0000",
+      "has_pink_apricorn": "2024-11-25 21:19:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-11-25 20:48:57 +0000",
+      "has_red_apricorn": "2024-11-25 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-11-25 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-11-25 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-11-25 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-11-25 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-11-25 20:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-11-25 20:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-11-25 20:54:07 +0000"
     },
     "done": true
   },
@@ -1631,15 +1665,33 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
     "criteria": {
-      "has_apricorn": "2024-11-25 21:38:52 +0000"
+      "has_apricorn": "2024-11-25 21:19:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_black_wool": "2024-11-25 20:54:07 +0000"
+      "has_leather": "2024-11-25 21:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-25 21:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-11-25 21:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-11-25 21:22:32 +0000"
     },
     "done": true
   },
@@ -1655,34 +1707,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/protector": {
-    "criteria": {
-      "has_terracotta": "2024-11-25 20:44:57 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/great_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2024-11-25 20:48:57 +0000",
-      "has_red_apricorn": "2024-11-25 21:38:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-11-25 20:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-11-25 21:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-11-25 20:43:17 +0000"
     },
     "done": true
   },
@@ -1692,51 +1719,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/azure_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2024-11-25 20:48:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-11-25 20:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-11-25 20:49:51 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/heavy_duty_boots": {
-    "criteria": {
-      "has_leather": "2024-11-25 21:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-11-25 20:43:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-11-25 21:22:32 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/poke_ball": {
-    "criteria": {
-      "has_red_apricorn": "2024-11-25 21:38:52 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2024-11-25 21:19:45 +0000"
     },
     "done": true
   },
@@ -1749,6 +1734,24 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-25 21:22:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heavy_duty_boots": {
+    "criteria": {
+      "has_leather": "2024-11-25 21:26:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-11-25 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-11-25 21:38:52 +0000"
     },
     "done": true
   },

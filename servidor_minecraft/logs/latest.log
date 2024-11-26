@@ -902,3 +902,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Nov2024 21:37:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAMITA left the game
 [26Nov2024 21:55:11.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.142.99.151:47331] logged in with entity id 566 at (24.513107969597957, 64.0, 42.45665453053982)
 [26Nov2024 21:55:11.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[26Nov2024 22:05:54.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SuperMegaVegito[/127.126.113.86:33343] logged in with entity id 2072 at (71.5, 114.0, -96.5)
+[26Nov2024 22:05:54.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito joined the game
+[26Nov2024 22:06:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> yokoso
+[26Nov2024 22:06:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> watashi no soul society
+[26Nov2024 22:06:28.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> hado no 90°
+[26Nov2024 22:06:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [The World of Cobblemon!]
+[26Nov2024 22:07:34.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Mother Nature's Bounty]
+[26Nov2024 22:07:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Very Berry]
+[26Nov2024 22:08:06.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deimos2862[/127.142.99.151:38017] logged in with entity id 2528 at (9.128911280730449, 64.5625, 25.67148895949734)
+[26Nov2024 22:08:06.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimos2862 joined the game
+[26Nov2024 22:08:31.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito was slain by Thecno662
+[26Nov2024 22:09:38.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> yokoso
+[26Nov2024 22:09:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Isn't It Iron Pick]
+[26Nov2024 22:09:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> watashi no soul society
+[26Nov2024 22:09:49.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Suit Up]
+[26Nov2024 22:09:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> hado no 90°
+[26Nov2024 22:09:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> yare yare
+[26Nov2024 22:10:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Getting an Upgrade]
+[26Nov2024 22:10:17.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Is it a Fruit or is it a Nut?]
+[26Nov2024 22:10:22.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Stone Age]
+[26Nov2024 22:11:23.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Doing my Part]
+[26Nov2024 22:12:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Hard Work and Dedication]
+[26Nov2024 22:12:40.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [The First of Many]
+[26Nov2024 22:13:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimos2862 was slain by Zombie
+[26Nov2024 22:14:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Monster Hunter]
+[26Nov2024 22:14:28.124] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6c4a8b61-5052-4ad3-85e3-d2e7cfeeb8a3
+[26Nov2024 22:14:28.128] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6c4a8b61-5052-4ad3-85e3-d2e7cfeeb8a3
+[26Nov2024 22:15:00.297] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7bc8ca23-937c-4163-a654-956581df3c78
+[26Nov2024 22:15:00.298] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7bc8ca23-937c-4163-a654-956581df3c78
+[26Nov2024 22:15:18.295] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6ef069bf-c907-4019-b3ca-ad60e2b98daf
+[26Nov2024 22:15:18.296] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6ef069bf-c907-4019-b3ca-ad60e2b98daf
+[26Nov2024 22:17:49.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
+[26Nov2024 22:17:49.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
+[26Nov2024 22:17:53.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deimos2862 lost connection: Disconnected
+[26Nov2024 22:17:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimos2862 left the game
+[26Nov2024 22:21:01.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [A New Friend!]
+[26Nov2024 22:22:04.345] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3e443b46-6b85-4830-8f0f-741ad1e4bd0b
+[26Nov2024 22:22:04.346] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3e443b46-6b85-4830-8f0f-741ad1e4bd0b
+[26Nov2024 22:24:42.207] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dd63e063-9623-4692-b8dd-110bbd11ba24
+[26Nov2024 22:24:42.208] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dd63e063-9623-4692-b8dd-110bbd11ba24
+[26Nov2024 22:33:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Sweet Dreams]
+[26Nov2024 22:33:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SuperMegaVegito> win
