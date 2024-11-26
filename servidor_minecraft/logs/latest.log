@@ -944,3 +944,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Nov2024 22:24:42.208] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dd63e063-9623-4692-b8dd-110bbd11ba24
 [26Nov2024 22:33:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [Sweet Dreams]
 [26Nov2024 22:33:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SuperMegaVegito> win
+[26Nov2024 22:35:28.741] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ab70e7eb-2c22-4982-ac02-36a030f0851b
+[26Nov2024 22:35:28.742] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ab70e7eb-2c22-4982-ac02-36a030f0851b
+[26Nov2024 22:35:28.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito was blown up by Creeper
+[26Nov2024 22:41:25.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21, l='ServerLevel[world]', x=25.92, y=58.00, z=-33.32] died, message: 'Villager was slain by Zombie'
+[26Nov2024 22:47:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito has made the advancement [A Seedy Place]
+[26Nov2024 22:52:02.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SuperMegaVegito lost connection: Disconnected
+[26Nov2024 22:52:02.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuperMegaVegito left the game

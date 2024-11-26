@@ -84,6 +84,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2024-11-26 22:10:18 +0000"
@@ -187,6 +199,12 @@
     },
     "done": false
   },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2024-11-26 22:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-11-26 22:10:09 +0000"
@@ -250,9 +268,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-26 22:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-26 22:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
     },
     "done": true
   },
@@ -284,6 +314,12 @@
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
       "check_inv": "2024-11-26 22:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
     },
     "done": true
   },
@@ -347,6 +383,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-26 22:47:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-26 22:08:22 +0000"
@@ -356,6 +404,12 @@
   "cobblemon:harvest_apricorn": {
     "criteria": {
       "check_inv": "2024-11-26 22:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-26 22:47:30 +0000"
     },
     "done": true
   },
@@ -395,6 +449,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2024-11-26 22:15:55 +0000"
@@ -413,12 +473,30 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
       "has_red_apricorn": "2024-11-26 22:15:55 +0000",
       "has_yellow_apricorn": "2024-11-26 22:11:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/agriculture/mulch_base": {
     "criteria": {
@@ -468,9 +546,27 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-26 22:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-11-26 22:10:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:48 +0000"
     },
     "done": true
   },
@@ -524,12 +620,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2024-11-26 22:10:17 +0000",
       "has_black_apricorn": "2024-11-26 22:10:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-26 22:35:48 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
@@ -555,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
       "has_blue_apricorn": "2024-11-26 22:10:17 +0000",
@@ -573,6 +687,18 @@
       "has_red_apricorn": "2024-11-26 22:15:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-26 22:48:20 +0000"
+    },
+    "done": true
   },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
@@ -661,6 +787,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-26 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-26 22:35:48 +0000"
+    },
+    "done": true
+  },
   "cobblemon:craft_poke_ball": {
     "criteria": {
       "requirement": "2024-11-26 22:12:40 +0000"
@@ -704,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-26 22:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-26 22:10:22 +0000"
@@ -735,6 +879,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-11-26 22:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-11-26 22:10:09 +0000"
@@ -763,6 +913,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-26 22:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-26 22:35:48 +0000"
     },
     "done": true
   },
